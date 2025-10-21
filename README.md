@@ -9,7 +9,7 @@
 <br />
 
 Hi, my name's John Foley! <br />
-            I'm a final year software engineering studing at
+            I'm currently completing a masters in AI/ML at
             <a href="https://software-engineering.ie/">ISE</a> in UL.
 
 
