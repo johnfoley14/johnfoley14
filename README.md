@@ -1,26 +1,28 @@
-### Hello World 👋 It's John
+### Hello World 👋 I'm John
 
-<br/>
+🎓 Currently pursuing an MSc in **AI & Machine Learning** at [ISE, UL](https://software-engineering.ie/)  
+💻 Passionate about **software engineering**, **AI research**, and **creative problem-solving**  
+🌱 Always learning something new — currently diving into **LLMs** and **MLOps**
 
+---
+
+### 🧠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,java,aws,docker,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnfoley14&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnfoley14&layout=compact&hide_border=true&theme=radical)
+
+---
+
+### 💬 Connect with me
 <a href="https://www.linkedin.com/in/john-foley-65225a252/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<br />
-
-<br />
-
-Hi, my name's John Foley! <br />
-            I'm currently completing a masters in AI/ML at
-            <a href="https://software-engineering.ie/">ISE</a> in UL.
-
-
-
-**Languages and Tools:**
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=johnfoley14&show_icons=true&hide_border=true)
+<a href="mailto:john.foley@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
