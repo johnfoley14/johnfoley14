@@ -14,10 +14,6 @@ React, Angular, Python, Java, Typescript, HuggingFace
 
 ---
 
-### 📊 GitHub Stats
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=johnfoley14&show_icons=true&hide_border=true)
----
-
 ### 💬 Connect with me
 <a href="https://www.linkedin.com/in/john-foley-65225a252/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
